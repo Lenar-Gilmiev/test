@@ -1,5 +1,5 @@
 # Hello, world!
 
-I study in 
+I study in Netology
 
 24.06.2025
